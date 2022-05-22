@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FatmaAli597
+- 👋 Hi, I’m FatmaAli597
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning web development asp.net and design foundations with angular 
 - 💞️ I’m looking to collaborate on ...
