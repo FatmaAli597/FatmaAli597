@@ -1,6 +1,6 @@
 - 👋 Hi, I’m FatmaAli597
 - 👀 I’m interested in web development 
-- 🌱 I’m currently working web development asp.net and design foundations with angular 
+- 🌱 I’m currently working on web development asp.net and design foundations with angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "fatma597ail@gmail.com"
 
